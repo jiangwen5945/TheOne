@@ -1,0 +1,12 @@
+- name: Vue
+  url: https://cn.vuejs.org/
+  img: /images/logos/vue.png
+  description: 渐进式 JavaScript 框架
+- name: React
+  url: https://react.docschina.org/
+  img: /images/logos/react.png
+  description: 用于构建用户界面的 JavaScript 库
+- name: Angular
+  url: https://angular.cn/
+  img: /images/logos/angular.png
+  description: 现代 Web 开发平台

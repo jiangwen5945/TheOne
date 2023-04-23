@@ -1,0 +1,12 @@
+- name: Vercel
+  url: https://tool.lu/
+  img: /images/logos/toollu.png
+  description: 在线工具 - 你的工具箱
+- name: TinyPNG
+  url: https://tinypng.com/
+  img: /images/logos/toollu.png
+  description: 智能压缩您的WebP、JPEG和PNG图片
+- name: 奈斯搜索
+  url: https://www.niceso.fun/
+  img: /images/logos/niceso.png
+  description: 坚持做最好用的阿里云盘资源搜索引擎

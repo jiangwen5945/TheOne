@@ -1,0 +1,8 @@
+- name: Github
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台。
+- name: Vercel
+  url: https://vercel.com/
+  img: /images/logos/vercel.png
+  description: 零配置的静态资源和无服务器云计算(serverless) 部署平台。
