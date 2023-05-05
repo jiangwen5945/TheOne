@@ -82,13 +82,13 @@ myProject:
     img: /images/logos/myLogo.png
     description: 实时数据监控系统
   - name: xiamao-mall
-    url: https://panel.jiangwen.site/
+    url: https://xiamao-mall.jiangwen.site/
     img: /images/logos/xiamao.png
     description: 瞎猫商场
   - name: admin
-    url: https://panel.jiangwen.site/
+    url: https://admin.jiangwen.site/
     img: /images/logos/myLogo.png
-    description: 通用后台管理系统image.png
+    description: 通用后台管理系统
 
 
 # about:
